@@ -24,7 +24,7 @@ And are explaned concepts like
 - `git diff` To see all the changes before a stage changes or a previous commit.
 - `git git checkout -q <branchName> ` To change the branch.
 - `git branch <branchName>` To see the current branch.
-- `` git merge <branchName>```To merge/fusione a specific branch into the current branch  `git branch`
+- `git merge <branchName>`To merge/fusione a specific branch into the current branch  `git branch`
 - `git push origin main` Send all commits or changes to the main branch.
 - `git push` To send all the changes from the current branch `git branch`.
 - `git push <branchName>` To send all commits or changes to a specific branch.
